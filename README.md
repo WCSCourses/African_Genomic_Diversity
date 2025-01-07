@@ -9,21 +9,45 @@
 
 ### Summary
 
-The genomic diversity of Africa is regarded as an invaluable resource for advancing the understanding of disease mechanisms, identifying novel genetic variants, and uncovering complex disease architectures. However, the full potential of this diversity has not been fully utilised, partly due to gaps in capacity and limited access to genomic research tools.
+African genomic diversity represents an invaluable resource for advancing the understanding of biological mechanisms, uncovering novel genetic variants, and elucidating complex disease architectures. However, its full potential remains underutilised due to limited access to skills and tools for translating genomic approaches and data into research and practice.
 
-To address these challenges, the workshop “Practical Approaches to Research and Discovery Using African Genomic Diversity” is being hosted in collaboration with the African Society of Human Genetics (AfSHG). This event aims to empower researchers with the knowledge and practical skills needed to leverage African genomic diversity for impactful discoveries in health and disease.
+The workshop **“Practical Approaches to Research and Discovery Using African Genomic Diversity”** —hosted in collaboration with the [15th African Society of Human Genetics Conference and the 1st Ugandan Society of Human Genetics and Bioinformatics](https://afshg2025.org/) —aims to bridge this gap. It will equip scientists with the knowledge and practical skills to leverage African genomic diversity for impactful impactful discoveries in health and disease.
 
-This course aligns with global efforts to increase representation and equity in genomic research, facilitating access to datasets such as H3Africa, and providing a platform for capacity building, collaboration, and knowledge transfer by experts in the field.
+**What will this workshop cover?**
 
-**What will this course cover?**
+Aligned with global efforts to enhance representation and equity in genomic research, this workshop will showcase effective approaches and guide participants in identifying, accessing, and analysing genomic data. This hands-on workshop will focus on developing research questions for genomic discovery, leveraging African genomic diversity to study genetic variants and architectures, and applying systematic data mining techniques. Through expert-led and interactive sessions, mentoring, and networking opportunities, the workshop will foster collaboration, knowledge exchange, and professional growth, enabling participants to derive actionable insights and make meaningful use of African genomic diversity.
 
-This hands-on workshop will include:
+**Target audience:** Early career researchers, healthcare or other professionals interested in applying genomics to conduct their research
 
-- Developing research questions for genomic discovery focused on diseases prevalent in African populations.
-- Utilising African genomic diversity to identify novel/rare variants and study complex genetic architectures using tools such as GWAS and WGS.
-- Practical training in methodologies, including family studies, systematic data mining, and research toolkit creation tailored to diverse settings.
-- Interactive sessions to bridge the gap between bioinformatics analysis and actionable insights.
-- Participants will also engage in mentoring and networking opportunities with leading experts, fostering long-term collaborations across the continent.
+### Prerequisites
+
+To ensure participants can fully benefit from the workshop, the following prerequisites are recommended:
+
+- A foundational understanding of genomics, including genetic variants, sequencing, and basic data analysis.
+- Basic experience with genomic workflows, such as sequence alignment, variant calling, data preprocessing, and quality control.
+- Familiarity with genomic databases and computational tools for genomic analysis is helpful but not mandatory.
+- A background in research, healthcare, biology, bioinformatics, or related fields.
+- Participants should bring their own laptops.
+
+The workshop will be conducted in English, with French language support provided by the training team.
+
+### Learning outcomes
+
+By the end of this workshop, participants will be able to:
+
+- Develop effective research questions tailored to genomic datasets.
+- Explain how African genomic diversity enhances variant discovery and biological insights.
+- Utilise genomic databases, datasets, and methods to address research questions.
+- Design and apply systematic data mining workflows for basic genomic analyses.
+
+### Programme
+The workshop will include interactive lectures, practical sessions, and mentoring activities, focusing on developing the capacity to conduct genomic research.
+
+**Topics and activities**
+
+- Developing research questions for genomic discovery 
+- Applying systematic data mining approaches to conduct research using African genomic datasets
+- Mentoring and networking opportunities with renowned experts and like-minded peers promoting collaboration, knowledge exchange, and professional growth.
 
 **Course Instructors**      
 
