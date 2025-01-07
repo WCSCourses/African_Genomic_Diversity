@@ -49,9 +49,8 @@ The workshop will include interactive lectures, practical sessions, and mentorin
 - Applying systematic data mining approaches to conduct research using African genomic datasets
 - Mentoring and networking opportunities with renowned experts and like-minded peers promoting collaboration, knowledge exchange, and professional growth.
 
-**Course Instructors**      
+**Trainer and Mentors**      
 
-- Trainer and Mentors
 - Rokhaya Ndiaye
 - Ghada Kamah
 - Misaki Wayengera
@@ -59,12 +58,10 @@ The workshop will include interactive lectures, practical sessions, and mentorin
 - Michele Ramsay
 - Scott Williams
 - Segun Fatumo Fatumo
-- Chris Kintu Kintu
-- Gloria Kirabo Kirabo
+- Chris Kintu
+- Gloria Kirabo
 - Maria Mudau
 - Mohamed Zahir
-- Malebo Malope Malope
-- Anie Kofie
 - Lyndon Zass
 - Karen Kengne
 - Amadou Gaye
