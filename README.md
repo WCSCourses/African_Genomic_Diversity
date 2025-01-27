@@ -53,7 +53,6 @@ The workshop will include interactive lectures, practical sessions, and mentorin
 
 - Rokhaya Ndiaye
 - Ghada Kamah
-- Misaki Wayengera
 - Ambroise Wonkam
 - Michele Ramsay
 - Scott Williams
